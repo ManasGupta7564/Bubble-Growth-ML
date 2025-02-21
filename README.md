@@ -53,16 +53,15 @@ To run the script, navigate to the directory containing the script and execute i
 
 ## True v/s Predicted D v/s t Plots 
 
-![[WhatsApp Image 2024-05-07 at 15 18 54_357b53cb](Result_images/Result - 1 - .D vs T - predicted vs real .jpeg)](https://github.com/ML-Team-IIT-Jammu/Bubble-Growth-ML/blob/main/Result_images/Result%20-%201%20-%20.D%20vs%20T%20-%20predicted%20vs%20real%20.jpeg)
-![WhatsApp Image 2024-05-07 at 15 19 16_db3bcc8e](https://github.com/Bubble-Growth/Bubble-Growth-ML/assets/118654264/d50c0596-07ae-4aa5-9b09-8dd46e336cdd)
+![](https://github.com/ML-Team-IIT-Jammu/Bubble-Growth-ML/blob/main/Result_images/Result%20-%201%20-%20.D%20vs%20T%20-%20predicted%20vs%20real%20.jpeg)
+![](https://github.com/ML-Team-IIT-Jammu/Bubble-Growth-ML/blob/main/Result_images/Result%20-%202%20-%20.D%20vs%20T%20-%20predicted%20vs%20real%20.jpeg.jpeg)
 
-![WhatsApp Image 2024-05-07 at 15 19 37_1f9cb029](https://github.com/Bubble-Growth/Bubble-Growth-ML/assets/118654264/29f4ee37-33f1-4c4a-94aa-89b175b54292)
+![](https://github.com/ML-Team-IIT-Jammu/Bubble-Growth-ML/blob/main/Result_images/Result%20-%203%20-%20.D%20vs%20T%20-%20predicted%20vs%20real%20.jpeg.jpeg)
 
 ## Predicted v/s True Diameter Comparision Plots
 
-![WhatsApp Image 2024-05-07 at 15 18 54_87c3965a](https://github.com/Bubble-Growth/Bubble-Growth-ML/assets/118654264/8182b019-84dd-4c07-a975-2de4cc486148)
-![WhatsApp Image 2024-05-07 at 15 19 16_974e9cb9](https://github.com/Bubble-Growth/Bubble-Growth-ML/assets/118654264/91b15877-c269-42a6-a17d-9be436e9381c)
-
-![WhatsApp Image 2024-05-07 at 15 19 38_51aec0f0](https://github.com/Bubble-Growth/Bubble-Growth-ML/assets/118654264/6f016a79-c16f-4403-ad1a-09686ed0711e)
+![](https://github.com/ML-Team-IIT-Jammu/Bubble-Growth-ML/blob/main/Result_images/Result%20-%201%20-predicted%20vs%20real%20.jpeg)
+![](https://github.com/ML-Team-IIT-Jammu/Bubble-Growth-ML/blob/main/Result_images/Result%20-%202%20-predicted%20vs%20real%20.jpeg.jpeg)
+![](https://github.com/ML-Team-IIT-Jammu/Bubble-Growth-ML/blob/main/Result_images/Result%20-%203%20-predicted%20vs%20real%20.jpeg.jpeg)
 
 
