@@ -53,7 +53,7 @@ To run the script, navigate to the directory containing the script and execute i
 
 ## True v/s Predicted D v/s t Plots 
 
-![WhatsApp Image 2024-05-07 at 15 18 54_357b53cb](https://github.com/Bubble-Growth/Bubble-Growth-ML/assets/118654264/f0f9a60a-8dad-45de-96b4-0b5b159c9fe3)
+![[WhatsApp Image 2024-05-07 at 15 18 54_357b53cb](Result_images/Result - 1 - .D vs T - predicted vs real .jpeg)](https://github.com/ML-Team-IIT-Jammu/Bubble-Growth-ML/blob/main/Result_images/Result%20-%201%20-%20.D%20vs%20T%20-%20predicted%20vs%20real%20.jpeg)
 ![WhatsApp Image 2024-05-07 at 15 19 16_db3bcc8e](https://github.com/Bubble-Growth/Bubble-Growth-ML/assets/118654264/d50c0596-07ae-4aa5-9b09-8dd46e336cdd)
 
 ![WhatsApp Image 2024-05-07 at 15 19 37_1f9cb029](https://github.com/Bubble-Growth/Bubble-Growth-ML/assets/118654264/29f4ee37-33f1-4c4a-94aa-89b175b54292)
